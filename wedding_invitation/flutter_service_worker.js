@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "fce01e012ffa139d45a393de62050b23",
+  "assets/AssetManifest.json": "36ba99afa6e6c6673b2b643922e3e4ed",
 "assets/FontManifest.json": "27f40e69030eea24ab4853095b9163f2",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/lib/assets/fonts/JosefinSans/JosefinSans-Bold.ttf": "9d3903c99fe767324c5b6be40ec53c7b",
@@ -22,9 +22,10 @@ const RESOURCES = {
 "assets/lib/assets/fonts/JosefinSans/JosefinSans-ThinItalic.ttf": "11e03ed63e216f67774f3031b2247bd2",
 "assets/lib/assets/images/bca.png": "8c14002029a523a0cbaf65dd59306a43",
 "assets/lib/assets/images/komang.JPG": "62f4083248526ec088939f233a856480",
-"assets/lib/assets/images/logo.png": "8abe16d1ae186afbd552f4a36e849cf2",
+"assets/lib/assets/images/logo.png": "cc14827d5c871a81b2b5391c610a9bd7",
 "assets/lib/assets/images/putu.JPG": "e507b42e411ae230332f3ded6e130c18",
-"assets/NOTICES": "670f3104142a724f8707428e557081ee",
+"assets/lib/assets/music/Bridal-chorus.mp3": "3b7aa33d426c2243f694d755be67a361",
+"assets/NOTICES": "b6883c73252b60f6e7fc1d616e21b470",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
@@ -36,9 +37,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "74d4b7492b2b0adbe09e447afcd2ff47",
-"/": "74d4b7492b2b0adbe09e447afcd2ff47",
-"main.dart.js": "9a23824423efb97a1dfaf28d9fc35593",
+"index.html": "b3d52d1064d77207c76ac952492e4505",
+"/": "b3d52d1064d77207c76ac952492e4505",
+"main.dart.js": "1d21b985b0392df862aba5d85c38e068",
 "manifest.json": "a7b3de0ff4368eff4fa1b36ef9555702",
 "version.json": "fa62a0f385fd246e09c15612da75b2b8"
 };
