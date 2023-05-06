@@ -80172,7 +80172,7 @@ cK(a){var s=0,r=A.F(t.z),q=this,p
 var $async$cK=A.G(function(b,c){if(b===1)return A.C(c,r)
 while(true)switch(s){case 0:p=q.f
 s=2
-return A.I(p.tW(A.aFj(A.hL("lib/assets/music/Bridal-chorus.mp3",0,null),null),null,!0),$async$cK)
+return A.I(p.tW(A.aFj(A.hL("assets/lib/assets/music/Bridal-chorus.mp3",0,null),null),null,!0),$async$cK)
 case 2:p.cK(0)
 return A.D(null,r)}})
 return A.E($async$cK,r)},
