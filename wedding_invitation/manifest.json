@@ -1,11 +1,11 @@
 {
-    "name": "wedding_invitation",
-    "short_name": "wedding_invitation",
+    "name": "The Wedding Of Cristri & Dana",
+    "short_name": "Cristri & Dana",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#FEEFEE",
+    "theme_color": "#CB8882",
+    "description": "Sabtu, 29 Juli 2023",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
