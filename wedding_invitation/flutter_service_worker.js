@@ -31,7 +31,7 @@ const RESOURCES = {
 "assets/lib/assets/images/logo.png": "cc14827d5c871a81b2b5391c610a9bd7",
 "assets/lib/assets/images/logo2.png": "9de2ea753f64eb6bddf2684c1508240c",
 "assets/lib/assets/images/putu.JPG": "84c1f03bf99582a2f94132507da8eb09",
-"assets/lib/assets/music/Bridal-chorus.mp3": "3b7aa33d426c2243f694d755be67a361",
+"assets/lib/assets/music/Bridal-chorus.mp3": "67d9bea3f9af7b0b71c73f9479e4aac3",
 "assets/NOTICES": "6310eacc1e5db3eee02a474e5c0c6d2a",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
@@ -44,9 +44,9 @@ const RESOURCES = {
 "icons/icon-512.png": "e7d9e7f880afcd8feeedf8e8d0b46b2a",
 "icons/icon-maskable-192.png": "30f5467c85f6ca2a7baf4f90815dbf0c",
 "icons/icon-maskable-512.png": "e7d9e7f880afcd8feeedf8e8d0b46b2a",
-"index.html": "846488e34b275af049741c9c5fc8b562",
-"/": "846488e34b275af049741c9c5fc8b562",
-"main.dart.js": "0b26ae72117158342e2190e5154e9833",
+"index.html": "d3ee1a60a3bfe82c25f838313efb0ded",
+"/": "d3ee1a60a3bfe82c25f838313efb0ded",
+"main.dart.js": "16cec0fec9fbda8458cfe8bc9ea713c9",
 "manifest.json": "e7e3db4629fe673e24fbe41207f092b9",
 "version.json": "fa62a0f385fd246e09c15612da75b2b8"
 };
