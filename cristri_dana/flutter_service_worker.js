@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "89f877bf7c8feca2de88d645a79a8f12",
+  "assets/AssetManifest.json": "18ca20dbd95f0b2a956b57a58757794b",
 "assets/FontManifest.json": "27f40e69030eea24ab4853095b9163f2",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/lib/assets/fonts/JosefinSans/JosefinSans-Bold.ttf": "9d3903c99fe767324c5b6be40ec53c7b",
@@ -30,7 +30,6 @@ const RESOURCES = {
 "assets/lib/assets/images/logo.png": "cc14827d5c871a81b2b5391c610a9bd7",
 "assets/lib/assets/images/logo2.png": "9de2ea753f64eb6bddf2684c1508240c",
 "assets/lib/assets/images/putu.JPG": "84c1f03bf99582a2f94132507da8eb09",
-"assets/lib/assets/music/Bridal-chorus.mp3": "eaa17b8af905284f3b3342f152eecae9",
 "assets/NOTICES": "1f66d0272e8bc780aa8bf4402e6f6996",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
@@ -43,9 +42,9 @@ const RESOURCES = {
 "icons/icon-512.png": "e7d9e7f880afcd8feeedf8e8d0b46b2a",
 "icons/icon-maskable-192.png": "30f5467c85f6ca2a7baf4f90815dbf0c",
 "icons/icon-maskable-512.png": "e7d9e7f880afcd8feeedf8e8d0b46b2a",
-"index.html": "d35dbacaef7a067bd50241f2619f369e",
-"/": "d35dbacaef7a067bd50241f2619f369e",
-"main.dart.js": "f61a9ea4650a24eb1fcb7eb93884c37c",
+"index.html": "811bf39f5c306b7376f1fedb26774c67",
+"/": "811bf39f5c306b7376f1fedb26774c67",
+"main.dart.js": "316f2ede94f23e8e4e7af04c909e95e7",
 "manifest.json": "a14aa800942c3335cae6e5e80fde0ec1",
 "version.json": "7aa63981f9766539c6982dcb8f44a249"
 };
